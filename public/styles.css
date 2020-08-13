@@ -66,6 +66,10 @@ footer p {
   height: 36px;
   cursor: pointer;
   outline: none;
+  background-color: #ffffff;
+}
+.note button:hover {
+  background-color: rgb(235, 235, 235);
 }
 
 form.create-note {

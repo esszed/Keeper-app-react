@@ -1,5 +1,5 @@
 import React from 'react'
-import {Delete as DeleteIcon} from "@material-ui/icons"
+import DeleteIcon from '@material-ui/icons/Delete';
 
 const Note = ({ onDelete, customKey, title, content }) => {
   const handleClick = () => {
