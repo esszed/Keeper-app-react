@@ -4,5 +4,4 @@ import App from './components/App'
 
 const root = document.getElementById('root')
 
-
-render(<App/>, root )
+render(<App />, root)
